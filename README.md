@@ -1,2 +1,2 @@
 # Flying-Gators
-This program will find the optimal routes for customers to choose from one airport to another based on a variety on preferences.
+This program generates a map of airports based on a users preferences. A command line interface then allows for users to search for flights/airports using Dijastras and bellemens shortest path algorithms. All data can also be exported to excel.
